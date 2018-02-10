@@ -1,0 +1,20 @@
+Grading:
+0 - 5 scale, 5 is good
+Radio buttons for grading UI
+Manual grading capability on the fly
+Can pass/fail each individual section of the exam; essentially no/pass fail for entire exam
+
+Administrator:
+Need note taking for each question
+Need to be able to skip questions as needed
+Need to be able to enter demographics for student that is taking the test
+
+Miscellaneous:
+7 required courses
+Professors have access to system to upload questions
+Infinite persistence is required
+Bank of questions can change at any time; flush functionality that will refill the bank???
+Uploaded questions should be present in a structured text file
+20 - 100 questions per class
+Test questions should be randomized
+No particular application format is required
