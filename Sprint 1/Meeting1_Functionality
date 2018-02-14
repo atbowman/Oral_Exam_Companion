@@ -1,22 +1,35 @@
 --Functionality pulled from Meeting 1 notes; feel free to add if necessary--
 
 Grading:
-0 - 5 scale, 5 is good
+0 - 5 scale, 5 is good (this is for each individual question)
 Radio buttons for grading UI
 Manual grading capability on the fly
+    1. Dr. Barrett ask the question
+    2. Student answers
+    3. He grades the response
 Can pass/fail each individual section of the exam; essentially no/pass fail for entire exam
 
 Administrator:
 Need note taking for each question
-Need to be able to skip questions as needed
+Need to be able to skip questions as needed (if the student doesn't know the answer)
 Need to be able to enter demographics for student that is taking the test
+  Such as Student's: E#, Concentration, enrollment date to Graduate program, etc.
 
 Miscellaneous:
-7 required courses
+7 required courses - questions asked from each course during an exam.
 Professors have access to system to upload questions
 Infinite persistence is required
 Bank of questions can change at any time; flush functionality that will refill the bank???
+    (Many question will be consistent though) Maybe update 15% - 35% of the questions will change from semester to semester.
 Uploaded questions should be present in a structured text file
 20 - 100 questions per class
 Test questions should be randomized
 No particular application format is required
+When another instructor uploads quesitons they will need to provide name of course with quesitons
+
+Recommendations from Dr. Barrett
+- Everytime we create a function of the program we need to run it by him
+    (It might not be what he had in mind)
+- We need to create paper prototypes before software prototypes
+    (& run these by him)
+- "Nag him!" (we can't consult with him too much)
