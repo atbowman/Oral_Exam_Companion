@@ -1,3 +1,9 @@
 --Pose questions that you have for Dr. Barrett in this file--
 
 Will we need to move the old spreadsheet data to this application's database and format?
+
+We know that Dr. Barrett needs to be able to skip questions. This is primarily for a
+"grace" to students who can't answer the question. Will it ever occur that he skips a
+question because the student has already passed that question's section of the exam?
+Or will those questions be omitted from the pool of questions to be asked prior to 
+the exam?
